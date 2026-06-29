@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR2m0054/v1
+canonical_location: https://kanripo.org/bkk/KR2m0054/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 唐律疏義
+  identifiers:
+    krp: KR2m0054
+  tags:
+    kr-categories: KR2m
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR2m0054.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR2m0054_001.yaml, hash: 'sha256:ed6e39f4ccd469fdf04a0c5f70c2106b23b14355e3209d3af357cc51ab37bb23'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2m0054_001.markers.yaml, hash: 'sha256:71384f0fcfcf320e36a3db5e598d1d1bcaa3605e41924f83279afab660fe6c1e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 182248
+  label: ''
+  type: section
+  level: 1
+hash: sha256:dde99ec5dddef9b55610df02d49774fc493d1c6b909c7740c80dd341f5e78670
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

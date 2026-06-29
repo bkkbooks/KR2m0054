@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR2m0054/tls/v1
+canonical_location: https://kanripo.org/bkk/KR2m0054/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 唐律疏義
+  identifiers:
+    krp: KR2m0054
+  tags:
+    kr-categories: KR2m
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR2m0054.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR2m0054_001-tls.yaml, hash: 'sha256:16f23b4c455dc4d96d76d815e6e1640497fa1a96226c4706f3158f9b75d482cc'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2m0054_001-tls.markers.yaml, hash: 'sha256:c0f897ed91b6a68017d25e0fd49ccca660d5ff8a23fb445db222c4f66d957de3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 182248
+  label: ''
+  type: section
+  level: 1
+hash: sha256:62ab5cfa6168a26dc70608a285f083553c21d734c649db11756c5a1609d3e1ba

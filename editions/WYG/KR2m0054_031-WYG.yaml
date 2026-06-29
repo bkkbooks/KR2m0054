@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2m0054/WYG/v1/juan/31
+seq: 31
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斷
+  hash: sha256:6ea3316917588819eec3c74f99154ac56b76044a6449383a7e9560b672c90403
+metadata:
+  title: 故唐律疏議
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 00:41:39.017258'
+  source:
+    repository: kanripo
+    path: KR2m0054/KR2m0054_031.txt
+hash: sha256:5fb2b5c5b579a822b2fe557f3b37dc8b9890a1ce850f08a9c328d68a7141e3ea
