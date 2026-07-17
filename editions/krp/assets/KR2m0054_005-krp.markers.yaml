@@ -20,6 +20,7 @@ markers:
   - {type: line-break, offset: 14, content: '', id: KR2m0054_SBCK_005-1a02}
   - {type: punctuation, offset: 26, content: (, id: KR2m0054_krp_005-bkkpn4}
   - {type: variant, offset: 26, length: 0, content: '', WYG: 正贜猶}
+  - {type: 'voice:problem', offset: 26, length: 0, id: KR2m0054_krp_005-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 26}
   - {type: 'kr:non-cjk', offset: 29, content: <, id: KR2m0054_krp_005-bkkkrnonc4}
   - {type: variant, offset: 29, length: 4, content: 折正贓猶, WYG: ''}
   - {type: 'kr:non-cjk', offset: 30, content: t="33", id: KR2m0054_krp_005-bkkkrnonc5}
@@ -33,6 +34,7 @@ markers:
       ', id: KR2m0054_krp_005-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_005-1a03}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_005-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_005-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 1, length: 1, content: 議, WYG: 義}
   - {type: 'kr:newline', offset: 17, content: '
 
@@ -3057,4 +3059,4 @@ markers:
   - {type: variant, offset: 7197, length: 0, content: '', WYG: 欽定四庫全書唐律疏義卷六唐長孫無忌等撰名例六凡}
   - {type: page-break, offset: 7197, content: '', id: KR2m0054_WYG_006-1a, image: WYG0672/WYG0672-0094a.png}
   back: []
-hash: sha256:21180d3e8f245d8fa31741277605d6952c84139087c094986fcae98f378aec60
+hash: sha256:b3ae2e2a4d8580a737d6e81745924eb6fd9273daf8152de7774a072ece27c263

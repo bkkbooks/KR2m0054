@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_010-1a01}
   - {type: variant, offset: 0, length: 9, content: 故唐律䟽議卷第十凡, WYG: ''}
   - {type: punctuation, offset: 8, content: (, id: KR2m0054_krp_010-bkkpn1}
+  - {type: voice, offset: 8, length: 8, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 13, content: <, id: KR2m0054_krp_010-bkkkrnonc1}
   - {type: variant, offset: 13, length: 2, content: 折職, WYG: ''}
   - {type: 'kr:non-cjk', offset: 14, content: t="33", id: KR2m0054_krp_010-bkkkrnonc2}
@@ -141,6 +142,7 @@ markers:
   - {type: line-break, offset: 285, content: '', id: KR2m0054_SBCK_010-2a05}
   - {type: punctuation, offset: 288, content: (, id: KR2m0054_krp_010-bkkpn1}
   - {type: variant, offset: 288, length: 13, content: 言徴不言在言在不言徵之類折, WYG: ''}
+  - {type: voice, offset: 288, length: 26, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 300, content: <, id: KR2m0054_krp_010-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 301, content: t="33", id: KR2m0054_krp_010-bkkkrnonc2}
   - {type: punctuation, offset: 301, content: /, id: KR2m0054_krp_010-bkkpn2}
@@ -199,6 +201,7 @@ markers:
   - {type: variant, offset: 433, length: 1, content: 減, WYG: 减}
   - {type: punctuation, offset: 436, content: (, id: KR2m0054_krp_010-bkkpn4}
   - {type: variant, offset: 436, length: 0, content: '', WYG: 口誤}
+  - {type: voice, offset: 436, length: 10, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 438, content: <, id: KR2m0054_krp_010-bkkkrnonc4}
   - {type: variant, offset: 438, length: 3, content: 折口誤, WYG: 事者}
   - {type: 'kr:non-cjk', offset: 439, content: t="33", id: KR2m0054_krp_010-bkkkrnonc5}
@@ -239,6 +242,7 @@ markers:
   - {type: line-break, offset: 489, content: '', id: KR2m0054_SBCK_010-2b09}
   - {type: punctuation, offset: 505, content: (, id: KR2m0054_krp_010-bkkpn10}
   - {type: variant, offset: 505, length: 0, content: '', WYG: 誤謂}
+  - {type: voice, offset: 505, length: 12, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 507, content: <, id: KR2m0054_krp_010-bkkkrnonc10}
   - {type: variant, offset: 507, length: 1, content: 折, WYG: 文}
   - {type: 'kr:non-cjk', offset: 508, content: t="33", id: KR2m0054_krp_010-bkkkrnonc11}
@@ -290,6 +294,7 @@ markers:
   - {type: line-break, offset: 573, content: '', id: KR2m0054_SBCK_010-3a06}
   - {type: punctuation, offset: 582, content: (, id: KR2m0054_krp_010-bkkpn16}
   - {type: variant, offset: 582, length: 0, content: '', WYG: 有害謂當言勿原而言}
+  - {type: voice, offset: 582, length: 23, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 591, content: <, id: KR2m0054_krp_010-bkkkrnonc16}
   - {type: variant, offset: 591, length: 12, content: 折有害謂當言勿原而言類折, WYG: ''}
   - {type: 'kr:non-cjk', offset: 592, content: t="33", id: KR2m0054_krp_010-bkkkrnonc17}
@@ -365,6 +370,7 @@ markers:
   - {type: line-break, offset: 747, content: '', id: KR2m0054_SBCK_010-3b08}
   - {type: punctuation, offset: 759, content: (, id: KR2m0054_krp_010-bkkpn22}
   - {type: variant, offset: 759, length: 0, content: '', WYG: 可行謂案省可}
+  - {type: voice, offset: 759, length: 24, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 765, content: <, id: KR2m0054_krp_010-bkkkrnonc22}
   - {type: variant, offset: 765, length: 13, content: 折可行謂案省可言甲由之類折, WYG: ''}
   - {type: 'kr:non-cjk', offset: 766, content: t="33", id: KR2m0054_krp_010-bkkkrnonc23}
@@ -419,6 +425,7 @@ markers:
   - {type: line-break, offset: 865, content: '', id: KR2m0054_SBCK_010-4a06}
   - {type: punctuation, offset: 870, content: (, id: KR2m0054_krp_010-bkkpn28}
   - {type: variant, offset: 870, length: 0, content: '', WYG: 雖奏上不待}
+  - {type: voice, offset: 870, length: 11, name: note, id: n6}
   - {type: 'kr:non-cjk', offset: 875, content: <, id: KR2m0054_krp_010-bkkkrnonc28}
   - {type: variant, offset: 875, length: 6, content: 折雖奏上不待, WYG: ''}
   - {type: 'kr:non-cjk', offset: 876, content: t="33", id: KR2m0054_krp_010-bkkkrnonc29}
@@ -659,6 +666,7 @@ markers:
   - {type: page-break, offset: 1517, content: '', id: KR2m0054_WYG_010-7a, image: WYG0672/WYG0672-0144c.png}
   - {type: punctuation, offset: 1526, content: (, id: KR2m0054_krp_010-bkkpn31}
   - {type: variant, offset: 1526, length: 3, content: 人等折, WYG: ''}
+  - {type: voice, offset: 1526, length: 6, name: note, id: n7}
   - {type: 'kr:non-cjk', offset: 1528, content: <, id: KR2m0054_krp_010-bkkkrnonc31}
   - {type: 'kr:non-cjk', offset: 1529, content: t="33", id: KR2m0054_krp_010-bkkkrnonc32}
   - {type: punctuation, offset: 1529, content: /, id: KR2m0054_krp_010-bkkpn32}
@@ -991,6 +999,7 @@ markers:
   - {type: line-break, offset: 2354, content: '', id: KR2m0054_SBCK_010-9b01}
   - {type: punctuation, offset: 2363, content: (, id: KR2m0054_krp_010-bkkpn34}
   - {type: variant, offset: 2363, length: 0, content: '', WYG: 謂父母䘮禫制未}
+  - {type: voice, offset: 2363, length: 15, name: note, id: n8}
   - {type: variant, offset: 2367, length: 1, content: 喪, WYG: 䘮}
   - {type: 'kr:non-cjk', offset: 2370, content: <, id: KR2m0054_krp_010-bkkkrnonc34}
   - {type: variant, offset: 2370, length: 10, content: 折謂父母喪禫制未䟽議, WYG: 疏義}
@@ -1143,6 +1152,7 @@ markers:
   - {type: variant, offset: 2743, length: 0, content: '', WYG: 指斥乘輿}
   - {type: punctuation, offset: 2754, content: (, id: KR2m0054_krp_010-bkkpn37}
   - {type: variant, offset: 2754, length: 7, content: 涉乘輿者上請折, WYG: ''}
+  - {type: voice, offset: 2754, length: 14, name: note, id: n9}
   - {type: 'kr:non-cjk', offset: 2760, content: <, id: KR2m0054_krp_010-bkkkrnonc37}
   - {type: 'kr:non-cjk', offset: 2761, content: t="33", id: KR2m0054_krp_010-bkkkrnonc38}
   - {type: punctuation, offset: 2761, content: /, id: KR2m0054_krp_010-bkkpn38}
@@ -1196,6 +1206,7 @@ markers:
   - {type: line-break, offset: 2871, content: '', id: KR2m0054_SBCK_010-11a06}
   - {type: punctuation, offset: 2883, content: (, id: KR2m0054_krp_010-bkkpn40}
   - {type: variant, offset: 2883, length: 0, content: '', WYG: 因私事闘}
+  - {type: voice, offset: 2883, length: 8, name: note, id: n10}
   - {type: 'kr:non-cjk', offset: 2886, content: <, id: KR2m0054_krp_010-bkkkrnonc40}
   - {type: variant, offset: 2886, length: 7, content: 折因私事鬪䟽議, WYG: 疏義}
   - {type: 'kr:non-cjk', offset: 2887, content: t="33", id: KR2m0054_krp_010-bkkkrnonc41}
@@ -1348,6 +1359,7 @@ markers:
   - {type: page-break, offset: 3239, content: '', id: KR2m0054_WYG_010-13a, image: WYG0672/WYG0672-0147c.png}
   - {type: punctuation, offset: 3247, content: (, id: KR2m0054_krp_010-bkkpn43}
   - {type: variant, offset: 3247, length: 0, content: '', WYG: 有所廢闕}
+  - {type: voice, offset: 3247, length: 9, name: note, id: n11}
   - {type: 'kr:non-cjk', offset: 3251, content: <, id: KR2m0054_krp_010-bkkkrnonc43}
   - {type: variant, offset: 3251, length: 5, content: 折有所廢闕, WYG: ''}
   - {type: 'kr:non-cjk', offset: 3252, content: t="33", id: KR2m0054_krp_010-bkkkrnonc44}
@@ -1573,6 +1585,7 @@ markers:
   - {type: page-break, offset: 3803, content: '', id: KR2m0054_WYG_010-15a, image: WYG0672/WYG0672-0148c.png}
   - {type: punctuation, offset: 3819, content: (, id: KR2m0054_krp_010-bkkpn46}
   - {type: variant, offset: 3819, length: 3, content: 驛馿折, WYG: ''}
+  - {type: voice, offset: 3819, length: 13, name: note, id: n12}
   - {type: 'kr:non-cjk', offset: 3821, content: <, id: KR2m0054_krp_010-bkkkrnonc46}
   - {type: 'kr:non-cjk', offset: 3822, content: t="33", id: KR2m0054_krp_010-bkkkrnonc47}
   - {type: punctuation, offset: 3822, content: /, id: KR2m0054_krp_010-bkkpn47}
@@ -1596,6 +1609,7 @@ markers:
   - {type: variant, offset: 3832, length: 0, content: '', WYG: 减一等}
   - {type: punctuation, offset: 3845, content: (, id: KR2m0054_krp_010-bkkpn52}
   - {type: variant, offset: 3845, length: 4, content: 司准此折, WYG: ''}
+  - {type: voice, offset: 3845, length: 7, name: note, id: n13}
   - {type: 'kr:non-cjk', offset: 3848, content: <, id: KR2m0054_krp_010-bkkkrnonc52}
   - {type: 'kr:non-cjk', offset: 3849, content: t="33", id: KR2m0054_krp_010-bkkkrnonc53}
   - {type: punctuation, offset: 3849, content: /, id: KR2m0054_krp_010-bkkpn53}
@@ -1695,6 +1709,7 @@ markers:
   - {type: page-break, offset: 4093, content: '', id: KR2m0054_WYG_010-16a, image: WYG0672/WYG0672-0149a.png}
   - {type: punctuation, offset: 4104, content: (, id: KR2m0054_krp_010-bkkpn55}
   - {type: variant, offset: 4104, length: 4, content: 詣之處折, WYG: ''}
+  - {type: voice, offset: 4104, length: 8, name: note, id: n14}
   - {type: 'kr:non-cjk', offset: 4107, content: <, id: KR2m0054_krp_010-bkkkrnonc55}
   - {type: 'kr:non-cjk', offset: 4108, content: t="33", id: KR2m0054_krp_010-bkkkrnonc56}
   - {type: punctuation, offset: 4108, content: /, id: KR2m0054_krp_010-bkkpn56}
@@ -1708,6 +1723,7 @@ markers:
   - {type: variant, offset: 4117, length: 1, content: 者, WYG: ''}
   - {type: punctuation, offset: 4121, content: (, id: KR2m0054_krp_010-bkkpn58}
   - {type: variant, offset: 4121, length: 3, content: 不坐折, WYG: ''}
+  - {type: voice, offset: 4121, length: 6, name: note, id: n15}
   - {type: 'kr:non-cjk', offset: 4123, content: <, id: KR2m0054_krp_010-bkkkrnonc58}
   - {type: 'kr:non-cjk', offset: 4124, content: t="33", id: KR2m0054_krp_010-bkkkrnonc59}
   - {type: punctuation, offset: 4124, content: /, id: KR2m0054_krp_010-bkkpn59}
@@ -1791,6 +1807,7 @@ markers:
   - {type: variant, offset: 4311, length: 0, content: '', WYG: 乘驛馬齎私物}
   - {type: punctuation, offset: 4318, content: (, id: KR2m0054_krp_010-bkkpn61}
   - {type: variant, offset: 4318, length: 4, content: 衣仗者折, WYG: ''}
+  - {type: voice, offset: 4318, length: 8, name: note, id: n16}
   - {type: 'kr:non-cjk', offset: 4321, content: <, id: KR2m0054_krp_010-bkkkrnonc61}
   - {type: 'kr:non-cjk', offset: 4322, content: t="33", id: KR2m0054_krp_010-bkkkrnonc62}
   - {type: punctuation, offset: 4322, content: /, id: KR2m0054_krp_010-bkkpn62}
@@ -1804,6 +1821,7 @@ markers:
   - {type: variant, offset: 4343, length: 1, content: 減, WYG: 减}
   - {type: punctuation, offset: 4346, content: (, id: KR2m0054_krp_010-bkkpn64}
   - {type: variant, offset: 4346, length: 0, content: '', WYG: 餘條}
+  - {type: voice, offset: 4346, length: 8, name: note, id: n17}
   - {type: 'kr:non-cjk', offset: 4348, content: <, id: KR2m0054_krp_010-bkkkrnonc64}
   - {type: variant, offset: 4348, length: 3, content: 折餘條, WYG: 凖}
   - {type: 'kr:non-cjk', offset: 4349, content: t="33", id: KR2m0054_krp_010-bkkkrnonc65}
@@ -1974,6 +1992,7 @@ markers:
   - {type: indent, offset: 4729, content: 　, id: KR2m0054_krp_010-bkkind235}
   - {type: punctuation, offset: 4741, content: (, id: KR2m0054_krp_010-bkkpn70}
   - {type: variant, offset: 4741, length: 0, content: '', WYG: 其節大使出}
+  - {type: voice, offset: 4741, length: 36, name: note, id: n18}
   - {type: 'kr:non-cjk', offset: 4746, content: <, id: KR2m0054_krp_010-bkkkrnonc70}
   - {type: variant, offset: 4746, length: 6, content: 折其節大使出, WYG: 亦即送納應輸納而稽留者一}
   - {type: page-break, offset: 4746, content: '', id: KR2m0054_WYG_010-18b, image: WYG0672/WYG0672-0150b.png}
@@ -2166,4 +2185,4 @@ markers:
   - {type: variant, offset: 5190, length: 0, content: '', WYG: 欽定四庫全書唐律疏義卷十一唐長孫無忌等撰職制下凢}
   - {type: page-break, offset: 5190, content: '', id: KR2m0054_WYG_011-1a, image: WYG0672/WYG0672-0151a.png}
   back: []
-hash: sha256:becc3a4212a7b442dfcadf62153dd4c3440840ea8be6ee26e92af33e24c3e401
+hash: sha256:f6b8ad22be7cac760061e4a3561b7fd3b413842dd3cc9a0ef17350a0f7824aae

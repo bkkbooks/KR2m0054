@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_017-1a01}
   - {type: variant, offset: 0, length: 10, content: 故唐律䟽議卷第十七凡, WYG: 賊盗一凢}
   - {type: punctuation, offset: 9, content: (, id: KR2m0054_krp_017-bkkpn1}
+  - {type: 'voice:problem', offset: 9, length: 0, id: KR2m0054_krp_017-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 9}
   - {type: 'kr:non-cjk', offset: 14, content: <, id: KR2m0054_krp_017-bkkkrnonc1}
   - {type: variant, offset: 14, length: 5, content: 折賊盗䟽議, WYG: 疏義}
   - {type: 'kr:non-cjk', offset: 15, content: t="33", id: KR2m0054_krp_017-bkkkrnonc2}
@@ -20,6 +21,7 @@ markers:
       ', id: KR2m0054_krp_017-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_017-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_017-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_017-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR2m0054_krp_017-bkkkrnewl2}
@@ -2176,4 +2178,4 @@ markers:
   - {type: variant, offset: 5172, length: 0, content: '', WYG: 欽定四庫全書唐律疏義卷十八唐長孫無忌等撰賊盗二凢九條}
   - {type: page-break, offset: 5172, content: '', id: KR2m0054_WYG_018-1a, image: WYG0672/WYG0672-0227a.png}
   back: []
-hash: sha256:74fdfdef51f912cc976b0d8b5c037d9797b9b2a8fe13d8aa3688bc999824bbdf
+hash: sha256:18acf8ee9bbc79d7efb6eccbee29d9707bd0f31a3333a8d50fbfd638f560ec38

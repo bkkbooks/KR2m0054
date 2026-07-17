@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_025-1a01}
   - {type: variant, offset: 0, length: 11, content: 故唐律䟽議卷第二十五凡, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR2m0054_krp_025-bkkpn1}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR2m0054_krp_025-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   - {type: 'kr:non-cjk', offset: 15, content: <, id: KR2m0054_krp_025-bkkkrnonc1}
   - {type: variant, offset: 15, length: 3, content: 折詐偽, WYG: ''}
   - {type: 'kr:non-cjk', offset: 16, content: t="33", id: KR2m0054_krp_025-bkkkrnonc2}
@@ -20,6 +21,7 @@ markers:
       ', id: KR2m0054_krp_025-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_025-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_025-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_025-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 1, length: 1, content: 議, WYG: 義}
   - {type: 'kr:newline', offset: 17, content: '
 
@@ -3565,4 +3567,4 @@ markers:
   - {type: variant, offset: 8837, length: 0, content: '', WYG: 欽定四庫全書唐律䟽義卷}
   - {type: page-break, offset: 8837, content: '', id: KR2m0054_WYG_026-1a, image: WYG0672/WYG0672-0317a.png}
   back: []
-hash: sha256:59a07c98da92f160216f7e0256c332b60d53a0f791ec2367c1a3abd9f9683a21
+hash: sha256:9bbcba9046c42a6dfc76b8e38bba5dab6b717bf4d8c238987272738d3d60f416

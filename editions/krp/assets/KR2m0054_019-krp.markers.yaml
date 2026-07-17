@@ -34,6 +34,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 42, content: '>', id: KR2m0054_krp_019-bkkkrnonc9}
   - {type: punctuation, offset: 45, content: ), id: KR2m0054_krp_019-bkkpn9}
   - {type: punctuation, offset: 50, content: (, id: KR2m0054_krp_019-bkkpn10}
+  - {type: 'voice:problem', offset: 50, length: 0, id: KR2m0054_krp_019-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 50}
   - {type: 'kr:non-cjk', offset: 53, content: <, id: KR2m0054_krp_019-bkkkrnonc10}
   - {type: 'kr:non-cjk', offset: 54, content: t="33", id: KR2m0054_krp_019-bkkkrnonc11}
   - {type: punctuation, offset: 54, content: /, id: KR2m0054_krp_019-bkkpn11}
@@ -45,6 +46,7 @@ markers:
       ', id: KR2m0054_krp_019-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_019-1a04}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_019-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_019-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR2m0054_krp_019-bkkkrnewl2}
@@ -2667,4 +2669,4 @@ markers:
   - {type: variant, offset: 5765, length: 0, content: '', WYG: 欽定四庫全書唐律疏義卷二十唐長孫無忌等撰賊盗四凢一十五條盗緦麻小功財物諸盗}
   - {type: page-break, offset: 5765, content: '', id: KR2m0054_WYG_020-1a, image: WYG0672/WYG0672-0245a.png}
   back: []
-hash: sha256:b5e7cc315515b0bb4b3a6d522a3e6ae957fe17a3c5820ae43ab3a1d17cf77c80
+hash: sha256:9919dbab28066e94be31d1a389a3dd5f2d35aca3195808b104c3cd988630317d

@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_007-1a01}
   - {type: variant, offset: 0, length: 8, content: 故唐律䟽議卷第七, WYG: ''}
   - {type: punctuation, offset: 8, content: (, id: KR2m0054_krp_007-bkkpn1}
+  - {type: 'voice:problem', offset: 8, length: 0, id: KR2m0054_krp_007-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 8}
   - {type: 'kr:non-cjk', offset: 13, content: <, id: KR2m0054_krp_007-bkkkrnonc1}
   - {type: variant, offset: 13, length: 5, content: 折衛禁䟽議, WYG: 疏義}
   - {type: 'kr:non-cjk', offset: 14, content: t="33", id: KR2m0054_krp_007-bkkkrnonc2}
@@ -20,6 +21,7 @@ markers:
       ', id: KR2m0054_krp_007-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_007-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_007-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_007-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR2m0054_krp_007-bkkkrnewl2}
@@ -2432,4 +2434,4 @@ markers:
   - {type: page-break, offset: 5713, content: '', id: KR2m0054_WYG_007-23b, image: WYG0672/WYG0672-0120d.png}
   - {type: page-break, offset: 5713, content: '', id: KR2m0054_WYG_008-1a, image: WYG0672/WYG0672-0121a.png}
   back: []
-hash: sha256:fdf6e277737ab1df01423b55c42cdd386ec6d9f08ccac628b29a137e0cc0566b
+hash: sha256:3911aa42860f060f656c5f43a2c850a8f5c2e46df0b1c5d50b00a00826933ac3

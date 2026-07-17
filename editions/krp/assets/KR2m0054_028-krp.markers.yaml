@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_028-1a01}
   - {type: variant, offset: 0, length: 19, content: 故唐律䟽議卷第二十八凡一十八條折捕亡䟽, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR2m0054_krp_028-bkkpn1}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR2m0054_krp_028-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   - {type: 'kr:non-cjk', offset: 15, content: <, id: KR2m0054_krp_028-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 16, content: t="33", id: KR2m0054_krp_028-bkkkrnonc2}
   - {type: punctuation, offset: 16, content: /, id: KR2m0054_krp_028-bkkpn2}
@@ -19,6 +20,7 @@ markers:
       ', id: KR2m0054_krp_028-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_028-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_028-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_028-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR2m0054_krp_028-bkkkrnewl2}
@@ -2610,4 +2612,4 @@ markers:
   - {type: variant, offset: 6897, length: 0, content: '', WYG: 欽定四庫全書唐律䟽義卷二十九唐長孫無忌等撰斷獄上凡一十四條䟽斷}
   - {type: page-break, offset: 6897, content: '', id: KR2m0054_WYG_029-1a, image: WYG0672/WYG0672-0357c.png}
   back: []
-hash: sha256:c9b1c1e9812b910cae9b0b44062fd53c83c797d1e2ffc0f8d023325a58eb4ca7
+hash: sha256:bbf63107a79e940495385a93c9a265ffe88f2bb781d1ba81764e3ceb05be08c2

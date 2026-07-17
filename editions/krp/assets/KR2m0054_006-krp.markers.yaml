@@ -32,6 +32,7 @@ markers:
       ', id: KR2m0054_krp_006-bkkkrnewl3}
   - {type: line-break, offset: 42, content: '', id: KR2m0054_SBCK_006-1a03}
   - {type: punctuation, offset: 42, content: (, id: KR2m0054_krp_006-bkkpn7}
+  - {type: 'voice:problem', offset: 42, length: 0, id: KR2m0054_krp_006-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 42}
   - {type: 'kr:non-cjk', offset: 53, content: <, id: KR2m0054_krp_006-bkkkrnonc7}
   - {type: variant, offset: 53, length: 14, content: 折加重若重罪應贖輕罪應居䟽議, WYG: 疏義}
   - {type: 'kr:non-cjk', offset: 54, content: t="33", id: KR2m0054_krp_006-bkkkrnonc8}
@@ -44,6 +45,7 @@ markers:
       ', id: KR2m0054_krp_006-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_006-1a04}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_006-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_006-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR2m0054_krp_006-bkkkrnewl2}
@@ -3459,4 +3461,4 @@ markers:
   - {type: variant, offset: 7976, length: 0, content: '', WYG: 欽定四庫全書唐律疏義卷七唐長孫無忌等撰衛禁上}
   - {type: page-break, offset: 7976, content: '', id: KR2m0054_WYG_007-1a, image: WYG0672/WYG0672-0109c.png}
   back: []
-hash: sha256:f7ffe4f1c2cdfe093ca149d0817dd794577144ecb9e9ef5056af9972196f23f4
+hash: sha256:39689d0710ffcdc41195b8421caa47f297593a7e6fb5d15572d99167d0064a81

@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_014-1a01}
   - {type: variant, offset: 0, length: 9, content: 故唐律䟽議卷第十四, WYG: 戸婚下}
   - {type: punctuation, offset: 9, content: (, id: KR2m0054_krp_014-bkkpn1}
+  - {type: voice, offset: 9, length: 8, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 14, content: <, id: KR2m0054_krp_014-bkkkrnonc1}
   - {type: variant, offset: 14, length: 2, content: 折戸, WYG: 同姓為}
   - {type: 'kr:non-cjk', offset: 15, content: t="33", id: KR2m0054_krp_014-bkkkrnonc2}
@@ -136,6 +137,7 @@ markers:
   - {type: line-break, offset: 285, content: '', id: KR2m0054_SBCK_014-2a03}
   - {type: punctuation, offset: 295, content: (, id: KR2m0054_krp_014-bkkpn1}
   - {type: variant, offset: 295, length: 8, content: 称前夫之女凖此折, WYG: ''}
+  - {type: voice, offset: 295, length: 15, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 302, content: <, id: KR2m0054_krp_014-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 303, content: t="33", id: KR2m0054_krp_014-bkkkrnonc2}
   - {type: punctuation, offset: 303, content: /, id: KR2m0054_krp_014-bkkpn2}
@@ -571,6 +573,7 @@ markers:
   - {type: line-break, offset: 1466, content: '', id: KR2m0054_SBCK_014-6a05}
   - {type: punctuation, offset: 1482, content: (, id: KR2m0054_krp_014-bkkpn4}
   - {type: variant, offset: 1482, length: 3, content: 属娶折, WYG: ''}
+  - {type: voice, offset: 1482, length: 9, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 1484, content: <, id: KR2m0054_krp_014-bkkkrnonc4}
   - {type: 'kr:non-cjk', offset: 1485, content: t="33", id: KR2m0054_krp_014-bkkkrnonc5}
   - {type: punctuation, offset: 1485, content: /, id: KR2m0054_krp_014-bkkpn5}
@@ -655,6 +658,7 @@ markers:
   - {type: line-break, offset: 1672, content: '', id: KR2m0054_SBCK_014-6b08}
   - {type: punctuation, offset: 1681, content: (, id: KR2m0054_krp_014-bkkpn10}
   - {type: variant, offset: 1681, length: 0, content: '', WYG: 仍兩}
+  - {type: voice, offset: 1681, length: 5, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 1683, content: <, id: KR2m0054_krp_014-bkkkrnonc10}
   - {type: variant, offset: 1683, length: 5, content: 折仍兩䟽議, WYG: 疏義}
   - {type: 'kr:non-cjk', offset: 1684, content: t="33", id: KR2m0054_krp_014-bkkkrnonc11}
@@ -1092,6 +1096,7 @@ markers:
   - {type: line-break, offset: 2871, content: '', id: KR2m0054_SBCK_014-11a01}
   - {type: punctuation, offset: 2872, content: (, id: KR2m0054_krp_014-bkkpn13}
   - {type: variant, offset: 2872, length: 4, content: 者亦同折, WYG: ''}
+  - {type: voice, offset: 2872, length: 8, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 2875, content: <, id: KR2m0054_krp_014-bkkkrnonc13}
   - {type: 'kr:non-cjk', offset: 2876, content: t="33", id: KR2m0054_krp_014-bkkkrnonc14}
   - {type: punctuation, offset: 2876, content: /, id: KR2m0054_krp_014-bkkpn14}
@@ -1446,6 +1451,7 @@ markers:
   - {type: variant, offset: 3781, length: 0, content: '', WYG: 嫁娶違律}
   - {type: punctuation, offset: 3798, content: (, id: KR2m0054_krp_014-bkkpn16}
   - {type: variant, offset: 3798, length: 0, content: '', WYG: 本}
+  - {type: voice, offset: 3798, length: 19, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 3799, content: <, id: KR2m0054_krp_014-bkkkrnonc16}
   - {type: variant, offset: 3799, length: 10, content: 折本法至死者減一等折, WYG: ''}
   - {type: 'kr:non-cjk', offset: 3800, content: t="33", id: KR2m0054_krp_014-bkkkrnonc17}
@@ -1704,4 +1710,4 @@ markers:
   - {type: variant, offset: 4381, length: 0, content: '', WYG: 欽定四庫全書唐律疏義卷十五唐長孫無忌等撰廐庫}
   - {type: page-break, offset: 4381, content: '', id: KR2m0054_WYG_015-1a, image: WYG0672/WYG0672-0188a.png}
   back: []
-hash: sha256:0dad515b4090bb8f3d783be89f8dd0f4e3442d45767fa0113c1267fbbaba8026
+hash: sha256:b3c5589cd930282c9fed34187d2aa9f335f5c39ec590b268f57db83c1df1e97c

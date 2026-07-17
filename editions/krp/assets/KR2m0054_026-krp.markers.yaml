@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 7, content: 故唐律䟽議卷第, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR2m0054_krp_026-bkkpn1}
   - {type: variant, offset: 10, length: 1, content: 凡, WYG: 唐長孫無忌等撰雜律上凢}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR2m0054_krp_026-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   - {type: 'kr:non-cjk', offset: 15, content: <, id: KR2m0054_krp_026-bkkkrnonc1}
   - {type: variant, offset: 15, length: 3, content: 折雜律, WYG: ''}
   - {type: 'kr:non-cjk', offset: 16, content: t="33", id: KR2m0054_krp_026-bkkkrnonc2}
@@ -21,6 +22,7 @@ markers:
       ', id: KR2m0054_krp_026-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_026-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_026-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_026-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR2m0054_krp_026-bkkkrnewl2}
@@ -2895,4 +2897,4 @@ markers:
 
       ', id: KR2m0054_krp_026-bkkkrnewl530}
   back: []
-hash: sha256:9ce4cb62827dafc70be26ff520c4f0e9a6aa2ecb1e38791795d152e5120fc7e7
+hash: sha256:144514e67a0f31dc94485068f2026b320342d6b61d955d349132d9b3a704b848

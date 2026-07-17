@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 33, content: '', id: KR2m0054_SBCK_002-1a03}
   - {type: punctuation, offset: 39, content: (, id: KR2m0054_krp_002-bkkpn4}
   - {type: variant, offset: 39, length: 9, content: 刑之律而不正決之折, WYG: ''}
+  - {type: 'voice:problem', offset: 39, length: 0, id: KR2m0054_krp_002-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 39}
   - {type: 'kr:non-cjk', offset: 47, content: <, id: KR2m0054_krp_002-bkkkrnonc4}
   - {type: 'kr:non-cjk', offset: 48, content: t="33", id: KR2m0054_krp_002-bkkkrnonc5}
   - {type: punctuation, offset: 48, content: /, id: KR2m0054_krp_002-bkkpn5}
@@ -35,6 +36,7 @@ markers:
       ', id: KR2m0054_krp_002-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_002-1a04}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_002-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_002-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 1, length: 1, content: 議, WYG: 義}
   - {type: variant, offset: 11, length: 0, content: '', WYG: 死}
   - {type: 'kr:newline', offset: 17, content: '
@@ -2736,4 +2738,4 @@ markers:
   - {type: page-break, offset: 6599, content: '', id: KR2m0054_WYG_002-26b, image: WYG0672/WYG0672-0051d.png}
   - {type: page-break, offset: 6599, content: '', id: KR2m0054_WYG_003-1a, image: WYG0672/WYG0672-0052a.png}
   back: []
-hash: sha256:d1996749fa365515bdb285ecd0c4f5664043b0fc8d0cfbabd7f5fc0a07820fda
+hash: sha256:3a6f1d4a799bebd5a03f8f13e12a7e3a484acf2c7a225992ed55fa107c7f5d67

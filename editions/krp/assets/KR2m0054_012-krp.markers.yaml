@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_012-1a01}
   - {type: variant, offset: 0, length: 9, content: 故唐律䟽議卷第十二, WYG: ''}
   - {type: punctuation, offset: 9, content: (, id: KR2m0054_krp_012-bkkpn1}
+  - {type: 'voice:problem', offset: 9, length: 0, id: KR2m0054_krp_012-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 9}
   - {type: 'kr:non-cjk', offset: 14, content: <, id: KR2m0054_krp_012-bkkkrnonc1}
   - {type: variant, offset: 14, length: 5, content: 折户婚䟽議, WYG: 疏義}
   - {type: 'kr:non-cjk', offset: 15, content: t="33", id: KR2m0054_krp_012-bkkkrnonc2}
@@ -20,6 +21,7 @@ markers:
       ', id: KR2m0054_krp_012-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_012-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_012-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_012-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR2m0054_krp_012-bkkkrnewl2}
@@ -1749,4 +1751,4 @@ markers:
   - {type: variant, offset: 4266, length: 0, content: '', WYG: 欽定四庫全書唐律疏義卷十三唐長孫無忌等撰户婚中凡一十八條占田過限}
   - {type: page-break, offset: 4266, content: '', id: KR2m0054_WYG_013-1a, image: WYG0672/WYG0672-0169c.png}
   back: []
-hash: sha256:11ebd76ed65092d4e7cdc585779a82b5c5c6021281a1f7713209b12340bac2e4
+hash: sha256:55677de83045257cccd71fa0280182f94a6abbb8699f22788f505bdc92f15820

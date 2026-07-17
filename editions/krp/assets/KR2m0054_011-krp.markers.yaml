@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_011-1a01}
   - {type: variant, offset: 0, length: 10, content: 故唐律䟽議卷第十一凡, WYG: ''}
   - {type: punctuation, offset: 9, content: (, id: KR2m0054_krp_011-bkkpn1}
+  - {type: voice, offset: 9, length: 8, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 14, content: <, id: KR2m0054_krp_011-bkkkrnonc1}
   - {type: variant, offset: 14, length: 3, content: 折職制, WYG: 奉使部送顧寄人}
   - {type: 'kr:non-cjk', offset: 15, content: t="33", id: KR2m0054_krp_011-bkkkrnonc2}
@@ -162,6 +163,7 @@ markers:
   - {type: variant, offset: 346, length: 1, content: 減, WYG: 减}
   - {type: punctuation, offset: 349, content: (, id: KR2m0054_krp_011-bkkpn1}
   - {type: variant, offset: 349, length: 0, content: '', WYG: 雖有政迹而}
+  - {type: voice, offset: 349, length: 11, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 354, content: <, id: KR2m0054_krp_011-bkkkrnonc1}
   - {type: variant, offset: 354, length: 8, content: 折雖有政迹而䟽議, WYG: 疏義}
   - {type: 'kr:non-cjk', offset: 355, content: t="33", id: KR2m0054_krp_011-bkkkrnonc2}
@@ -271,6 +273,7 @@ markers:
   - {type: variant, offset: 586, length: 0, content: '', WYG: 有所請求}
   - {type: punctuation, offset: 595, content: (, id: KR2m0054_krp_011-bkkpn4}
   - {type: variant, offset: 595, length: 0, content: '', WYG: 謂從主司求曲法之事}
+  - {type: voice, offset: 595, length: 19, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 604, content: <, id: KR2m0054_krp_011-bkkkrnonc4}
   - {type: variant, offset: 604, length: 10, content: 折謂從主司求曲法之事, WYG: ''}
   - {type: 'kr:non-cjk', offset: 605, content: t="33", id: KR2m0054_krp_011-bkkkrnonc5}
@@ -283,6 +286,7 @@ markers:
   - {type: line-break, offset: 614, content: '', id: KR2m0054_SBCK_011-3a05}
   - {type: punctuation, offset: 621, content: (, id: KR2m0054_krp_011-bkkpn7}
   - {type: variant, offset: 621, length: 6, content: 求者皆不坐折, WYG: ''}
+  - {type: voice, offset: 621, length: 12, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 626, content: <, id: KR2m0054_krp_011-bkkkrnonc7}
   - {type: 'kr:non-cjk', offset: 627, content: t="33", id: KR2m0054_krp_011-bkkkrnonc8}
   - {type: punctuation, offset: 627, content: /, id: KR2m0054_krp_011-bkkpn8}
@@ -418,6 +422,7 @@ markers:
   - {type: variant, offset: 943, length: 1, content: 勢, SBCK: 􅀔}
   - {type: punctuation, offset: 945, content: (, id: KR2m0054_krp_011-bkkpn10}
   - {type: variant, offset: 945, length: 0, content: '', WYG: 勢要者雖}
+  - {type: voice, offset: 945, length: 9, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 949, content: <, id: KR2m0054_krp_011-bkkkrnonc10}
   - {type: variant, offset: 949, length: 5, content: 折勢要者雖, WYG: ''}
   - {type: 'kr:non-cjk', offset: 950, content: t="33", id: KR2m0054_krp_011-bkkkrnonc11}
@@ -911,6 +916,7 @@ markers:
   - {type: variant, offset: 2168, length: 1, content: 減, WYG: 减}
   - {type: punctuation, offset: 2171, content: (, id: KR2m0054_krp_011-bkkpn13}
   - {type: variant, offset: 2171, length: 0, content: '', WYG: 紏弹之}
+  - {type: voice, offset: 2171, length: 7, name: note, id: n5}
   - {type: variant, offset: 2173, length: 5, content: 減折紏彈之, WYG: 减}
   - {type: 'kr:non-cjk', offset: 2174, content: <, id: KR2m0054_krp_011-bkkkrnonc13}
   - {type: 'kr:non-cjk', offset: 2175, content: t="33", id: KR2m0054_krp_011-bkkkrnonc14}
@@ -971,6 +977,7 @@ markers:
   - {type: variant, offset: 2292, length: 1, content: 贓, SBCK: 􅂍}
   - {type: punctuation, offset: 2294, content: (, id: KR2m0054_krp_011-bkkpn16}
   - {type: variant, offset: 2294, length: 0, content: '', WYG: 後訖未上亦同餘}
+  - {type: voice, offset: 2294, length: 18, name: note, id: n6}
   - {type: 'kr:non-cjk', offset: 2301, content: <, id: KR2m0054_krp_011-bkkkrnonc16}
   - {type: variant, offset: 2301, length: 8, content: 折授訖未上亦同餘, WYG: 凖}
   - {type: 'kr:non-cjk', offset: 2302, content: t="33", id: KR2m0054_krp_011-bkkkrnonc17}
@@ -995,6 +1002,7 @@ markers:
   - {type: line-break, offset: 2329, content: '', id: KR2m0054_SBCK_011-9a08}
   - {type: punctuation, offset: 2331, content: (, id: KR2m0054_krp_011-bkkpn22}
   - {type: variant, offset: 2331, length: 0, content: '', WYG: 餘條强}
+  - {type: voice, offset: 2331, length: 7, name: note, id: n7}
   - {type: 'kr:non-cjk', offset: 2334, content: <, id: KR2m0054_krp_011-bkkkrnonc22}
   - {type: variant, offset: 2334, length: 6, content: 折餘條强䟽議, WYG: 疏義}
   - {type: 'kr:non-cjk', offset: 2335, content: t="33", id: KR2m0054_krp_011-bkkkrnonc23}
@@ -1327,6 +1335,7 @@ markers:
   - {type: variant, offset: 3198, length: 1, content: 巳, WYG: 已}
   - {type: punctuation, offset: 3200, content: (, id: KR2m0054_krp_011-bkkpn25}
   - {type: variant, offset: 3200, length: 0, content: '', WYG: 非供已謂流外官及}
+  - {type: voice, offset: 3200, length: 16, name: note, id: n8}
   - {type: 'kr:non-cjk', offset: 3207, content: <, id: KR2m0054_krp_011-bkkkrnonc25}
   - {type: variant, offset: 3207, length: 9, content: 折非供巳謂流外官及, WYG: ''}
   - {type: 'kr:non-cjk', offset: 3208, content: t="33", id: KR2m0054_krp_011-bkkkrnonc26}
@@ -1349,6 +1358,7 @@ markers:
   - {type: line-break, offset: 3237, content: '', id: KR2m0054_SBCK_011-12b02}
   - {type: punctuation, offset: 3241, content: (, id: KR2m0054_krp_011-bkkpn28}
   - {type: variant, offset: 3241, length: 5, content: 直者不坐折, WYG: ''}
+  - {type: voice, offset: 3241, length: 10, name: note, id: n9}
   - {type: 'kr:non-cjk', offset: 3245, content: <, id: KR2m0054_krp_011-bkkkrnonc28}
   - {type: 'kr:non-cjk', offset: 3246, content: t="33", id: KR2m0054_krp_011-bkkkrnonc29}
   - {type: punctuation, offset: 3246, content: /, id: KR2m0054_krp_011-bkkpn29}
@@ -1427,6 +1437,7 @@ markers:
   - {type: line-break, offset: 3434, content: '', id: KR2m0054_SBCK_011-13a05}
   - {type: punctuation, offset: 3435, content: (, id: KR2m0054_krp_011-bkkpn31}
   - {type: variant, offset: 3435, length: 12, content: 上婚姻之家餘條親屬凖此折, WYG: ''}
+  - {type: voice, offset: 3435, length: 23, name: note, id: n10}
   - {type: 'kr:non-cjk', offset: 3446, content: <, id: KR2m0054_krp_011-bkkkrnonc31}
   - {type: 'kr:non-cjk', offset: 3447, content: t="33", id: KR2m0054_krp_011-bkkkrnonc32}
   - {type: punctuation, offset: 3447, content: /, id: KR2m0054_krp_011-bkkpn32}
@@ -1545,6 +1556,7 @@ markers:
   - {type: variant, offset: 3713, length: 0, content: '', WYG: 監臨受供饋}
   - {type: punctuation, offset: 3723, content: (, id: KR2m0054_krp_011-bkkpn34}
   - {type: variant, offset: 3723, length: 0, content: '', WYG: 謂非}
+  - {type: voice, offset: 3723, length: 5, name: note, id: n11}
   - {type: 'kr:non-cjk', offset: 3725, content: <, id: KR2m0054_krp_011-bkkkrnonc34}
   - {type: variant, offset: 3725, length: 3, content: 折謂非, WYG: ''}
   - {type: 'kr:non-cjk', offset: 3726, content: t="33", id: KR2m0054_krp_011-bkkkrnonc35}
@@ -1813,6 +1825,7 @@ markers:
   - {type: line-break, offset: 4396, content: '', id: KR2m0054_SBCK_011-16b04}
   - {type: punctuation, offset: 4404, content: (, id: KR2m0054_krp_011-bkkpn37}
   - {type: variant, offset: 4404, length: 5, content: 本任所者折, WYG: ''}
+  - {type: voice, offset: 4404, length: 10, name: note, id: n12}
   - {type: 'kr:non-cjk', offset: 4408, content: <, id: KR2m0054_krp_011-bkkkrnonc37}
   - {type: 'kr:non-cjk', offset: 4409, content: t="33", id: KR2m0054_krp_011-bkkkrnonc38}
   - {type: punctuation, offset: 4409, content: /, id: KR2m0054_krp_011-bkkpn38}
@@ -1870,6 +1883,7 @@ markers:
   - {type: line-break, offset: 4521, content: '', id: KR2m0054_SBCK_011-17a03}
   - {type: punctuation, offset: 4528, content: (, id: KR2m0054_krp_011-bkkpn40}
   - {type: variant, offset: 4528, length: 4, content: 者勿論折, WYG: ''}
+  - {type: voice, offset: 4528, length: 8, name: note, id: n13}
   - {type: 'kr:non-cjk', offset: 4531, content: <, id: KR2m0054_krp_011-bkkkrnonc40}
   - {type: 'kr:non-cjk', offset: 4532, content: t="33", id: KR2m0054_krp_011-bkkkrnonc41}
   - {type: punctuation, offset: 4532, content: /, id: KR2m0054_krp_011-bkkpn41}
@@ -2000,4 +2014,4 @@ markers:
   - {type: variant, offset: 4826, length: 0, content: '', WYG: 欽定四庫全書唐律疏義卷十二唐長孫無忌等撰户婚上}
   - {type: page-break, offset: 4826, content: '', id: KR2m0054_WYG_012-1a, image: WYG0672/WYG0672-0161a.png}
   back: []
-hash: sha256:0b0ca449b1c2abce89b1c35b43a8c43c3949dc339a9804ae576b0d883955d110
+hash: sha256:a7374b56cc282ea87fa2e8b09f32006eee63c1f0890b5a6fad51acdf672d120f

@@ -19,6 +19,7 @@ markers:
   - {type: line-break, offset: 15, content: '', id: KR2m0054_SBCK_003-1a02}
   - {type: punctuation, offset: 28, content: (, id: KR2m0054_krp_003-bkkpn4}
   - {type: variant, offset: 28, length: 0, content: '', WYG: 並謂斷}
+  - {type: 'voice:problem', offset: 28, length: 0, id: KR2m0054_krp_003-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 28}
   - {type: 'kr:non-cjk', offset: 31, content: <, id: KR2m0054_krp_003-bkkkrnonc4}
   - {type: variant, offset: 31, length: 4, content: 折並謂斷, WYG: ''}
   - {type: 'kr:non-cjk', offset: 32, content: t="33", id: KR2m0054_krp_003-bkkkrnonc5}
@@ -31,6 +32,7 @@ markers:
       ', id: KR2m0054_krp_003-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_003-1a03}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_003-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_003-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 1, length: 1, content: 議, WYG: 義}
   - {type: variant, offset: 3, length: 1, content: 姦, WYG: 奸}
   - {type: 'kr:newline', offset: 17, content: '
@@ -3092,4 +3094,4 @@ markers:
   - {type: variant, offset: 7492, length: 0, content: '', WYG: 欽定四庫全書唐律䟽義卷四唐長孫無忌等撰名例四凡八條犯罪已發問答一諸犯罪已發及已配而更為罪者各重其事䟽義}
   - {type: page-break, offset: 7492, content: '', id: KR2m0054_WYG_004-1a, image: WYG0672/WYG0672-0067a.png}
   back: []
-hash: sha256:2d2647e7274122435c3b4fb481869f187dba19e81fce04603ed2c4d1fb766433
+hash: sha256:7d9f336ded65868383507f9d2ad8b0699bf8c1f5dcd1cb00a490b3a80c0bcf5b

@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_023-1a01}
   - {type: variant, offset: 0, length: 108, content: 故唐律䟽議卷第二十三凡一十三條折闘訟諸毆傷妻前夫之子者減凡人一等同居者又減一等死者絞䟽議曰毆傷妻前夫之子者謂改醮之婦携子適人後夫毆傷者減凡人一等同居者謂與繼父同居立廟服期又減一等謂減凡人二等若毆之令至篤疾及㫁舌毁敗隂, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR2m0054_krp_023-bkkpn1}
+  - {type: voice, offset: 10, length: 8, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 15, content: <, id: KR2m0054_krp_023-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 16, content: t="33", id: KR2m0054_krp_023-bkkkrnonc2}
   - {type: punctuation, offset: 16, content: /, id: KR2m0054_krp_023-bkkpn2}
@@ -62,6 +63,7 @@ markers:
   - {type: line-break, offset: 96, content: '', id: KR2m0054_SBCK_023-1b01}
   - {type: punctuation, offset: 101, content: (, id: KR2m0054_krp_023-bkkpn1}
   - {type: variant, offset: 101, length: 0, content: '', WYG: 謂曾經同}
+  - {type: voice, offset: 101, length: 9, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 105, content: <, id: KR2m0054_krp_023-bkkkrnonc1}
   - {type: variant, offset: 105, length: 5, content: 折謂曾經同, WYG: ''}
   - {type: 'kr:non-cjk', offset: 106, content: t="33", id: KR2m0054_krp_023-bkkkrnonc2}
@@ -74,6 +76,7 @@ markers:
   - {type: line-break, offset: 119, content: '', id: KR2m0054_SBCK_023-1b02}
   - {type: punctuation, offset: 121, content: (, id: KR2m0054_krp_023-bkkpn4}
   - {type: variant, offset: 121, length: 4, content: 父凖此折, WYG: ''}
+  - {type: voice, offset: 121, length: 7, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 124, content: <, id: KR2m0054_krp_023-bkkkrnonc4}
   - {type: 'kr:non-cjk', offset: 125, content: t="33", id: KR2m0054_krp_023-bkkkrnonc5}
   - {type: punctuation, offset: 125, content: /, id: KR2m0054_krp_023-bkkpn5}
@@ -209,6 +212,7 @@ markers:
   - {type: variant, offset: 446, length: 1, content: 凡, WYG: 凢}
   - {type: punctuation, offset: 454, content: (, id: KR2m0054_krp_023-bkkpn7}
   - {type: variant, offset: 454, length: 0, content: '', WYG: 謂服}
+  - {type: voice, offset: 454, length: 12, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 456, content: <, id: KR2m0054_krp_023-bkkkrnonc7}
   - {type: variant, offset: 456, length: 1, content: 折, WYG: 業}
   - {type: 'kr:non-cjk', offset: 457, content: t="33", id: KR2m0054_krp_023-bkkkrnonc8}
@@ -331,6 +335,7 @@ markers:
   - {type: line-break, offset: 677, content: '', id: KR2m0054_SBCK_023-3b02}
   - {type: punctuation, offset: 681, content: (, id: KR2m0054_krp_023-bkkpn13}
   - {type: variant, offset: 681, length: 7, content: 凡闘傷一等折减, WYG: 減}
+  - {type: voice, offset: 681, length: 11, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 686, content: <, id: KR2m0054_krp_023-bkkkrnonc13}
   - {type: 'kr:non-cjk', offset: 687, content: t="33", id: KR2m0054_krp_023-bkkkrnonc14}
   - {type: punctuation, offset: 687, content: /, id: KR2m0054_krp_023-bkkpn14}
@@ -528,6 +533,7 @@ markers:
   - {type: line-break, offset: 1151, content: '', id: KR2m0054_SBCK_023-5a04}
   - {type: punctuation, offset: 1154, content: (, id: KR2m0054_krp_023-bkkpn16}
   - {type: variant, offset: 1154, length: 0, content: '', WYG: 謂子孫原}
+  - {type: voice, offset: 1154, length: 9, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 1158, content: <, id: KR2m0054_krp_023-bkkkrnonc16}
   - {type: variant, offset: 1158, length: 7, content: 折謂子孫元䟽議, WYG: 疏義}
   - {type: 'kr:non-cjk', offset: 1159, content: t="33", id: KR2m0054_krp_023-bkkkrnonc17}
@@ -1029,6 +1035,7 @@ markers:
   - {type: variant, offset: 2287, length: 1, content: 闘, WYG: 鬬}
   - {type: punctuation, offset: 2292, content: (, id: KR2m0054_krp_023-bkkpn19}
   - {type: variant, offset: 2292, length: 0, content: '', WYG: 謂以力共戲}
+  - {type: voice, offset: 2292, length: 11, name: note, id: n6}
   - {type: 'kr:non-cjk', offset: 2297, content: <, id: KR2m0054_krp_023-bkkkrnonc19}
   - {type: variant, offset: 2297, length: 6, content: 折謂以力共戯, WYG: ''}
   - {type: 'kr:non-cjk', offset: 2298, content: t="33", id: KR2m0054_krp_023-bkkkrnonc20}
@@ -1047,6 +1054,7 @@ markers:
   - {type: page-break, offset: 2328, content: '', id: KR2m0054_WYG_023-10a, image: WYG0672/WYG0672-0283c.png}
   - {type: punctuation, offset: 2339, content: (, id: KR2m0054_krp_023-bkkpn22}
   - {type: variant, offset: 2339, length: 0, content: '', WYG: 餘}
+  - {type: voice, offset: 2339, length: 15, name: note, id: n7}
   - {type: 'kr:non-cjk', offset: 2340, content: <, id: KR2m0054_krp_023-bkkkrnonc22}
   - {type: variant, offset: 2340, length: 8, content: 折餘贖者並凖此折, WYG: ''}
   - {type: 'kr:non-cjk', offset: 2341, content: t="33", id: KR2m0054_krp_023-bkkkrnonc23}
@@ -1232,6 +1240,7 @@ markers:
   - {type: variant, offset: 2755, length: 1, content: 狀, WYG: 状}
   - {type: punctuation, offset: 2759, content: (, id: KR2m0054_krp_023-bkkpn28}
   - {type: variant, offset: 2759, length: 0, content: '', WYG: 謂耳目所}
+  - {type: voice, offset: 2759, length: 41, name: note, id: n8}
   - {type: 'kr:non-cjk', offset: 2763, content: <, id: KR2m0054_krp_023-bkkkrnonc28}
   - {type: variant, offset: 2763, length: 4, content: 折謂耳目, WYG: ''}
   - {type: 'kr:non-cjk', offset: 2764, content: t="33", id: KR2m0054_krp_023-bkkkrnonc29}
@@ -1500,6 +1509,7 @@ markers:
   - {type: line-break, offset: 3439, content: '', id: KR2m0054_SBCK_023-13a05}
   - {type: punctuation, offset: 3444, content: (, id: KR2m0054_krp_023-bkkpn34}
   - {type: variant, offset: 3444, length: 14, content: 前人未决者聽減一等其本應加折, WYG: ''}
+  - {type: voice, offset: 3444, length: 48, name: note, id: n9}
   - {type: 'kr:non-cjk', offset: 3457, content: <, id: KR2m0054_krp_023-bkkkrnonc34}
   - {type: 'kr:non-cjk', offset: 3458, content: t="33", id: KR2m0054_krp_023-bkkkrnonc35}
   - {type: punctuation, offset: 3458, content: /, id: KR2m0054_krp_023-bkkpn35}
@@ -1722,6 +1732,7 @@ markers:
   - {type: variant, offset: 4006, length: 1, content: 虚, WYG: 虗}
   - {type: punctuation, offset: 4010, content: (, id: KR2m0054_krp_023-bkkpn40}
   - {type: variant, offset: 4010, length: 0, content: '', WYG: 謂告}
+  - {type: voice, offset: 4010, length: 20, name: note, id: n10}
   - {type: 'kr:non-cjk', offset: 4012, content: <, id: KR2m0054_krp_023-bkkkrnonc40}
   - {type: variant, offset: 4012, length: 3, content: 折謂告, WYG: 以上但一人不實}
   - {type: 'kr:non-cjk', offset: 4013, content: t="33", id: KR2m0054_krp_023-bkkkrnonc41}
@@ -1932,6 +1943,7 @@ markers:
   - {type: line-break, offset: 4494, content: '', id: KR2m0054_SBCK_023-16b06}
   - {type: punctuation, offset: 4495, content: (, id: KR2m0054_krp_023-bkkpn46}
   - {type: variant, offset: 4495, length: 0, content: '', WYG: 誣告期親尊長外祖父母夫夫之祖父母及}
+  - {type: voice, offset: 4495, length: 40, name: note, id: n11}
   - {type: 'kr:non-cjk', offset: 4512, content: <, id: KR2m0054_krp_023-bkkkrnonc46}
   - {type: variant, offset: 4512, length: 18, content: 折誣告期親尊長外祖父母夫夫之祖父母及, WYG: 虗各}
   - {type: 'kr:non-cjk', offset: 4513, content: t="33", id: KR2m0054_krp_023-bkkkrnonc47}
@@ -2047,6 +2059,7 @@ markers:
   - {type: variant, offset: 4756, length: 0, content: '', WYG: 告祖父母父母絞問答二}
   - {type: punctuation, offset: 4765, content: (, id: KR2m0054_krp_023-bkkpn52}
   - {type: variant, offset: 4765, length: 10, content: 上而故告者下條準此折, WYG: ''}
+  - {type: voice, offset: 4765, length: 20, name: note, id: n12}
   - {type: 'kr:non-cjk', offset: 4774, content: <, id: KR2m0054_krp_023-bkkkrnonc52}
   - {type: 'kr:non-cjk', offset: 4775, content: t="33", id: KR2m0054_krp_023-bkkkrnonc53}
   - {type: punctuation, offset: 4775, content: /, id: KR2m0054_krp_023-bkkpn53}
@@ -2276,4 +2289,4 @@ markers:
   - {type: variant, offset: 5302, length: 0, content: '', WYG: 欽定四庫全書唐律疏義卷二十四唐長孫無忌等撰鬬訟四凢一十六條告期親尊長問答一}
   - {type: page-break, offset: 5302, content: '', id: KR2m0054_WYG_024-1a, image: WYG0672/WYG0672-0289a.png}
   back: []
-hash: sha256:3884c81f9c32977c26c8ef104903d330d20103ec78a24268052ab56ece2a3ff0
+hash: sha256:c062d6e20ce72493d78be8bea5d88898d82b293fd2a22b3ad17e1b6e2762cd2f

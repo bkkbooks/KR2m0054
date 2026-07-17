@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_015-1a01}
   - {type: variant, offset: 0, length: 9, content: 故唐律䟽議卷第十五, WYG: ''}
   - {type: punctuation, offset: 9, content: (, id: KR2m0054_krp_015-bkkpn1}
+  - {type: 'voice:problem', offset: 9, length: 0, id: KR2m0054_krp_015-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 9}
   - {type: 'kr:non-cjk', offset: 14, content: <, id: KR2m0054_krp_015-bkkkrnonc1}
   - {type: variant, offset: 14, length: 5, content: 折廐庫䟽議, WYG: 疏義}
   - {type: 'kr:non-cjk', offset: 15, content: t="33", id: KR2m0054_krp_015-bkkkrnonc2}
@@ -20,6 +21,7 @@ markers:
       ', id: KR2m0054_krp_015-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_015-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_015-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_015-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR2m0054_krp_015-bkkkrnewl2}
@@ -2962,4 +2964,4 @@ markers:
   - {type: variant, offset: 7752, length: 0, content: '', WYG: 欽定四庫全書唐律疏義卷十六唐長孫無忌等撰擅興}
   - {type: page-break, offset: 7752, content: '', id: KR2m0054_WYG_016-1a, image: WYG0672/WYG0672-0203a.png}
   back: []
-hash: sha256:7aa99544dd39db818b3b36fa5c6ffdab358900f772bd3c600395dbb8578ea336
+hash: sha256:84f0841aa99b579cd720cbe86d9c9e1d4f919fc50b30a19bbc20a9a5401f142f

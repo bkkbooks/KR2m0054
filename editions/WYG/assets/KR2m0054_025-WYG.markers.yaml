@@ -13,6 +13,7 @@ markers:
       ', id: KR2m0054_WYG_025-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_WYG_025-front03}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_WYG_025-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_WYG_025-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: line-break, offset: 17, content: '', id: KR2m0054_WYG_025-front04}
   - {type: 'kr:newline', offset: 20, content: '
 
@@ -3431,4 +3432,4 @@ markers:
 
       ', id: KR2m0054_WYG_025-bkkkrnewl585}
   back: []
-hash: sha256:17e997f09533ffcf40bbda878ecfe70345d555018782b7f20875a0ec64278f18
+hash: sha256:f64abc13797b716d400a0337c83ec7d12e33d28e90344df275109a7d1d54af48

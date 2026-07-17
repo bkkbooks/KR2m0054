@@ -5,8 +5,9 @@ markers:
   body:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_WYG_000-front01}
   - {type: punctuation, offset: 0, content: (, id: KR2m0054_WYG_000-bkkpn1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_WYG_000-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 0}
   - {type: 'kr:newline', offset: 1, content: '
 
       ', id: KR2m0054_WYG_000-bkkkrnewl1}
   back: []
-hash: sha256:74a764fe844b8e8f58181b32bcb8521e12266c56aad9ea2b3da66103a6d1cc2c
+hash: sha256:f0a21b4e5595a719691a1c4733e38be2c5366bbce3b4cb87e24152391003ecc6

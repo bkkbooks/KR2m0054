@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_029-1a01}
   - {type: variant, offset: 0, length: 20, content: 故唐律䟽議卷第二十九凡一十四條折断獄䟽断, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR2m0054_krp_029-bkkpn1}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR2m0054_krp_029-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   - {type: 'kr:non-cjk', offset: 15, content: <, id: KR2m0054_krp_029-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 16, content: t="33", id: KR2m0054_krp_029-bkkkrnonc2}
   - {type: punctuation, offset: 16, content: /, id: KR2m0054_krp_029-bkkpn2}
@@ -19,6 +20,7 @@ markers:
       ', id: KR2m0054_krp_029-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2m0054_SBCK_029-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2m0054_krp_029-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2m0054_krp_029-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR2m0054_krp_029-bkkkrnewl2}
@@ -1683,4 +1685,4 @@ markers:
 
       ', id: KR2m0054_krp_029-bkkkrnewl320}
   back: []
-hash: sha256:5dae13c465bde3afcdd62833c17c0be6533aa9f790a5e11ecb2b050120af6591
+hash: sha256:69ec5bc2ac6b51736cdf1fe6550415c634d92b0e6d01d1cdf6fc45f51e148dc9
